@@ -10,6 +10,8 @@ author:
   name: Adam Saltiel Configuration Science Ltd
   email: adam.saltiel@gmail.com
   url: 'http://configurationscience.co.uk'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffeee52-6d9f-4f52-b6c4-9d200d6451e8.png
 name: Arbours Association
 navigation:
   - name: AAP Annual Conference
@@ -30,6 +32,8 @@ navigation:
   - name: scroll down
     id: 73adc33c-8952-4cdc-b9b9-96147ed4ad3e
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/512dbea8-7601-4bda-8e98-a7ceed86e1b7.png
 collections:
   - index:
       path: /
