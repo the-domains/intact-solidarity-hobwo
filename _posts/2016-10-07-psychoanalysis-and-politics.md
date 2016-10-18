@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-18T17:23:49.663Z'
+datePublished: '2016-10-18T17:27:14.730Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T17:23:48.773Z'
+dateModified: '2016-10-18T17:27:13.971Z'
 title: AAP Annual Conference
 publisher: {}
 description: ⎯⎯⎯
