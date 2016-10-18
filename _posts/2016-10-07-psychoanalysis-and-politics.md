@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-18T18:05:09.904Z'
+datePublished: '2016-10-18T18:08:41.547Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T18:05:09.348Z'
+dateModified: '2016-10-18T18:08:40.899Z'
 title: AAP Annual Conference
 publisher: {}
 description: ————
@@ -14,19 +14,18 @@ url: aap-annual-conference/index.html
 _type: Article
 
 ---
-[Booking][0]
+[Psychoanalysis and Politics][0]
 
 ------------
-[Psychoanalysis and Politics][1]
 
-------------
+## **Psychoanalysis and Politics**
 
 ## by **David Morgan**
 
 # **AAP Annual Conference**
 
 # 10.00am -- 1.00pm   
-followed by lunch
+followed by lunch 
 
 ## **Saturday 26 November 2016**
 
@@ -34,6 +33,7 @@ followed by lunch
 **LSE **  
 **London**  
 **WC2A 2AE**
+[Booking][1]
 
 In times of political turmoil, where does one turn to for insight? Faith is the persistence and continuity of humanity. (**Updike**)
 
@@ -60,8 +60,8 @@ He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa19000f8b85c8cb83ea9d706c934d2a91438dcf.png" /><h1>David Morgan|Psychologist</h1><p>Psychologist David Morgan, support in Asylum Cases and Psychological Support for Whistle-Blowers, London NW3</p></article>
 
 ------------
-[Booking][0]
+[Booking][1]
 
-[0]: http://aapmembers.org/booking
-[1]: http://aapmembers.org/aap-annual-conference
+[0]: http://aapmembers.org/aap-annual-conference
+[1]: http://aapmembers.org/booking
 [2]: http://www.publicinterestpsychology.co.uk/ "Public Interest Psychology"
