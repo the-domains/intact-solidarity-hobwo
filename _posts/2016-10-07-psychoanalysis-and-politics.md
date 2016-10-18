@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-18T17:58:59.682Z'
+datePublished: '2016-10-18T18:01:40.552Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T17:58:58.862Z'
+dateModified: '2016-10-18T18:01:39.769Z'
 title: AAP Annual Conference
 publisher: {}
 description: ⎯⎯⎯
@@ -17,9 +17,7 @@ _type: Article
 [Booking][0]
 
 ⎯⎯⎯
-[<span style="background-color=\#E8E8E8"\><h1\><strong\>Psychoanalysis </strong\><strong\> and </strong\><strong\> Politics</strong\></h1\></span\>][1]
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS5IzFMoLqnMSbVVSkpMzk4vyi_NS9FNzs_JL7JVdrUAQSU7mwxDO5vikqL8vHS7gOLK5Iz8xLzEnMrizGIFG32oOExeITEvBYtoQH5OZklmcjFCRh9kqD7IAXYAwEwv3Q" height="78" style=""></iframe>
+[Psychoanalysis and Politics][1]
 
 ## by **David Morgan**
 
