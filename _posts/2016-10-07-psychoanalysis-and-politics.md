@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-18T18:01:40.552Z'
+datePublished: '2016-10-18T18:05:09.904Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T18:01:39.769Z'
+dateModified: '2016-10-18T18:05:09.348Z'
 title: AAP Annual Conference
 publisher: {}
-description: ⎯⎯⎯
+description: ————
 starred: true
 url: aap-annual-conference/index.html
 _type: Article
@@ -16,8 +16,10 @@ _type: Article
 ---
 [Booking][0]
 
-⎯⎯⎯
+------------
 [Psychoanalysis and Politics][1]
+
+------------
 
 ## by **David Morgan**
 
@@ -57,7 +59,7 @@ He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa19000f8b85c8cb83ea9d706c934d2a91438dcf.png" /><h1>David Morgan|Psychologist</h1><p>Psychologist David Morgan, support in Asylum Cases and Psychological Support for Whistle-Blowers, London NW3</p></article>
 
-⎯⎯⎯
+------------
 [Booking][0]
 
 [0]: http://aapmembers.org/booking
