@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-18T15:54:34.354Z'
+datePublished: '2016-10-18T15:57:50.609Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T15:54:33.760Z'
+dateModified: '2016-10-18T15:57:49.952Z'
 title: AAP Annual Conference
 publisher: {}
 description: ⎯⎯⎯
@@ -18,7 +18,7 @@ _type: Article
 
 ⎯⎯⎯
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtj0EKg0AMRa8S3Ae16-mcQegJxnGYCaQTMaHW29dSbTddJXkPPj9uogdEDqrX5paikVQ4JmJYjCIniMKy4JiPxci-0NLTYMW-62aYsYe74owX-FjFtZCl88gsY2BovCu9d2qL1OwH3WKRUANvSgquPfjpIdTpDx2EaS-nP9O-Q9v9Hf8CLIBK3A" height="44" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtj10KwjAQhK-y9H0pgo8xNxAKnmCbhCa43ZVsUHp7608VxMf5PphhXCxXCExmh-60WEszBGWtOE5wpHAu0tQyWAqtqGDGC8VYZEKbifnDrz88p6rYKomVpxeVBDM23MOr3_CWS0tbmFhHYui8yzvvrFWVyQ-2hKwkxIsVA9e_-eaBJP6hg_I6Guxr-kdpvz71dxMqVsQ" height="88" style=""></iframe>
 
 ## by **David Morgan**
 
