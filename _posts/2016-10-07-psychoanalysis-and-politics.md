@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-10-18T15:39:52.571Z'
+datePublished: '2016-10-18T15:45:50.829Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T15:39:40.609Z'
-title: Psychoanalysis &zwnj; and &zwnj; Politics
+dateModified: '2016-10-18T15:45:49.783Z'
+title: AAP Annual Conference
 publisher: {}
-description: >-
-  In times of political turmoil, where does one turn to for insight? Faith is
-  the persistence and continuity of humanity. (Updike)
+description: ⎯⎯⎯
 starred: true
 url: aap-annual-conference/index.html
 _type: Article
@@ -18,7 +16,9 @@ _type: Article
 ---
 [Booking][0]
 
-# **Psychoanalysis **&zwnj;**and **&zwnj;**Politics**
+⎯⎯⎯
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyTC0sykuKcrPS7cLKK5MzshPzEvMqSzOLFaw0YeKw-QVEvNSsIgG5OdklmQmFyNk9IGGAgDAKyBB" height="244" style=""></iframe>
 
 ## by **David Morgan**
 
