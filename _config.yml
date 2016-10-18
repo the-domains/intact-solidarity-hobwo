@@ -53,6 +53,6 @@ purpose:
   - type: external
     label: Annual Conference
     url: 'http://aapmembers.org/aap-annual-conference'
-  - type: internal
-    label: Public Lecture Series
-    item: 6a596e3d-88e2-4147-9d1c-74a879c9a683
+  - type: external
+    label: Lecture Series
+    url: 'http://aapmembers.org/lecture-series'
