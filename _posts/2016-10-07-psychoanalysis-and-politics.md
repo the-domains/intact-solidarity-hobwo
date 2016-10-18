@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-18T18:08:41.547Z'
+datePublished: '2016-10-18T18:12:15.246Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T18:08:40.899Z'
-title: AAP Annual Conference
+dateModified: '2016-10-18T18:12:14.700Z'
+title: Psychoanalysis and Politics
 publisher: {}
 description: ————
 starred: true
@@ -18,14 +18,14 @@ _type: Article
 
 ------------
 
-## **Psychoanalysis and Politics**
+# **Psychoanalysis and Politics**
 
 ## by **David Morgan**
 
 # **AAP Annual Conference**
 
 # 10.00am -- 1.00pm   
-followed by lunch 
+followed by lunch
 
 ## **Saturday 26 November 2016**
 
