@@ -29,9 +29,6 @@ navigation:
   - name: About this website
     id: ff5bc65d-1330-4cc7-a37f-cf5e22612012
     type: content
-  - name: '&#8595; Scroll &#8593;'
-    id: 73adc33c-8952-4cdc-b9b9-96147ed4ad3e
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/512dbea8-7601-4bda-8e98-a7ceed86e1b7.png
 collections:
