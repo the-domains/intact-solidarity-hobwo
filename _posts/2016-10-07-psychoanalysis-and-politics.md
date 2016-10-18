@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-18T17:57:15.789Z'
+datePublished: '2016-10-18T17:58:59.682Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-18T17:57:14.870Z'
+dateModified: '2016-10-18T17:58:58.862Z'
 title: AAP Annual Conference
 publisher: {}
 description: ⎯⎯⎯
@@ -17,6 +17,7 @@ _type: Article
 [Booking][0]
 
 ⎯⎯⎯
+[<span style="background-color=\#E8E8E8"\><h1\><strong\>Psychoanalysis </strong\><strong\> and </strong\><strong\> Politics</strong\></h1\></span\>][1]
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS5IzFMoLqnMSbVVSkpMzk4vyi_NS9FNzs_JL7JVdrUAQSU7mwxDO5vikqL8vHS7gOLK5Iz8xLzEnMrizGIFG32oOExeITEvBYtoQH5OZklmcjFCRh9kqD7IAXYAwEwv3Q" height="78" style=""></iframe>
 
@@ -54,7 +55,7 @@ He is a training/supervising analyst of the **BPA**; Fellow of the **BPAS**; tra
 
 He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **BBC Radio 4** on various topics. He lectures on a variety of subjects within the **UK** and abroad, and was main guest speaker with **Ruth McCall** at the **Freud Conference**, **Melbourne**, **Australia 2016**. He is the guest speaker at the **Bob Gosling Memorial Lecture 2017**.
 
-### [Public Interest Psychology][1]
+### [Public Interest Psychology][2]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa19000f8b85c8cb83ea9d706c934d2a91438dcf.png" /><h1>David Morgan|Psychologist</h1><p>Psychologist David Morgan, support in Asylum Cases and Psychological Support for Whistle-Blowers, London NW3</p></article>
 
@@ -62,4 +63,5 @@ He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **
 [Booking][0]
 
 [0]: http://aapmembers.org/booking
-[1]: http://www.publicinterestpsychology.co.uk/ "Public Interest Psychology"
+[1]: http://aapmembers.org/aap-annual-conference
+[2]: http://www.publicinterestpsychology.co.uk/ "Public Interest Psychology"
