@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-19T00:47:33.279Z'
+datePublished: '2016-10-19T00:51:12.933Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T00:47:32.727Z'
+dateModified: '2016-10-19T00:51:11.196Z'
 title: Lecture Series
 publisher: {}
-description: Marilyn Lawrence
+description: (link)
 starred: true
 url: lecture-series/index.html
 _type: Article
@@ -16,7 +16,9 @@ _type: Article
 ---
 # **Lecture Series**
 
-## **[Her][0]**(link)
+## **[Her][0]**
+
+(link)
 
 ## **discussed by Andrea Sabbadini**
 
@@ -57,9 +59,9 @@ The AAP Lecture Series covers a wide range of topics of interest to professional
 
 We encourage participation and interesting debate. We are always interested in different approaches, how we can learn and be enriched by each other.
 
-[0]: http://aapmembers.org/her "Her"
-[1]: http://aapmembers.org/eating-disorders "Eating Disorders"
-[2]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman "Barbara Taylor"
-[3]: http://aapmembers.org/trauma "Trauma"
+[0]: http://aapmembers.org/her
+[1]: http://aapmembers.org/eating-disorders
+[2]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman
+[3]: http://aapmembers.org/trauma
 [4]: https://www.bpc.org.uk/find-a-therapist/therapist/7084 "Caroline Garland"
 [5]: http://www.annafreud.org/training-research/training-and-conferences-overview/tutors/c/maeve-crowley/ "Maeve Crowley"
