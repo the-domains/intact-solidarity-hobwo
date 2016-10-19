@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-19T00:55:52.328Z'
+datePublished: '2016-10-19T01:05:29.907Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T00:55:51.791Z'
+dateModified: '2016-10-19T01:05:29.296Z'
 title: Lecture Series
 publisher: {}
 description: Marilyn Lawrence
@@ -35,14 +35,14 @@ Dr. Bryony Bamford
 
 The London Centre For Eating Disorders and Body Image
 
-## **[Barbara Taylor][2]**(link)
+## **[Barbara Taylor][2]** (link)
 
 ## **In Conversation with Morton Schatzman**
 
 ### **Spring Conference May 2015**
 ![Professor of Humanities](https://s3-us-west-2.amazonaws.com/the-grid-img/p/991629040c7091b616f88a49ae74df716f913f74.jpg)
 
-## **[Trauma][3]**(link)
+## **[Trauma][3]** (link)
 
 ### **Autumn Annual Conference November 2014**
 ![author of Understanding Trauma: A Psychoanalytical Approach and many other titles](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bb234-3227-45b6-8e2f-0e894ddbe0d8.jpg)
