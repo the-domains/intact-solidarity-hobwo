@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-19T23:31:30.630Z'
+datePublished: '2016-10-19T23:36:59.284Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2016-10-19T23:31:29.746Z'
+dateModified: '2016-10-19T23:36:58.826Z'
 title: Psychoanalysis and Politics by David Morgan
 publisher: {}
 description: ————
@@ -63,7 +63,7 @@ He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **
 ## **Book Immediately on Eventbrite**
 [Psychoanalysis and Politics | David Morgan][3]
 
-## **Further Booking Details**
+# **Further Booking Details**
 [Booking][1]
 
 [0]: http://aapmembers.org/aap-annual-conference
