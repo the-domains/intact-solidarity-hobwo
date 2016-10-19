@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-19T23:40:05.487Z'
+datePublished: '2016-10-19T23:43:01.944Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2016-10-19T23:40:04.933Z'
+dateModified: '2016-10-19T23:43:01.323Z'
 title: Psychoanalysis and Politics by David Morgan
 publisher: {}
 description: ————
