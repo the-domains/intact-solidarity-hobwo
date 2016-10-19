@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-19T00:51:12.933Z'
+datePublished: '2016-10-19T00:55:52.328Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T00:51:11.196Z'
+dateModified: '2016-10-19T00:55:51.791Z'
 title: Lecture Series
 publisher: {}
-description: (link)
+description: Marilyn Lawrence
 starred: true
 url: lecture-series/index.html
 _type: Article
@@ -16,9 +16,7 @@ _type: Article
 ---
 # **Lecture Series**
 
-## **[Her][0]**
-
-(link)
+## **[Her][0]** (link)
 
 ## **discussed by Andrea Sabbadini**
 
