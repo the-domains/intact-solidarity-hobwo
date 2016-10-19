@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-19T00:20:48.385Z'
+datePublished: '2016-10-19T00:36:43.531Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T00:20:46.531Z'
+dateModified: '2016-10-19T00:36:42.977Z'
 title: Lecture Series
 publisher: {}
-description: Marilyn Lawrence
+description: (link)
 starred: true
 url: lecture-series/index.html
 _type: Article
@@ -16,14 +16,18 @@ _type: Article
 ---
 # **Lecture Series**
 
-## **[Her][0]** (link)
+## **[Her][0]**
+
+(link)
 
 ## **discussed by Andrea Sabbadini**
 
 ### **Spring Conference May 2016**
 ![http://aapmembers.org/her](https://s3-us-west-2.amazonaws.com/the-grid-img/p/552cbd3d65eb5650fb1d174e7a6ecbed5c612a0d.gif)
 
-## **[Eating Disorders][1]** (link)
+## **[Eating Disorders][1]**
+
+(link)
 
 ### **Autumn Annual Conference November 2015**
 
@@ -35,14 +39,18 @@ Dr. Bryony Bamford
 
 The London Centre For Eating Disorders and Body Image
 
-## **[Barbara Taylor][2]** (link)
+## **[Barbara Taylor][2]**
+
+(link)
 
 ## **In Conversation with Morton Schatzman**
 
 ### **Spring Conference May 2015**
 ![Professor of Humanities](https://s3-us-west-2.amazonaws.com/the-grid-img/p/991629040c7091b616f88a49ae74df716f913f74.jpg)
 
-## **[Trauma][3]** (link)
+## **[Trauma][3]**
+
+(link)
 
 ### **Autumn Annual Conference November 2014**
 ![author of Understanding Trauma: A Psychoanalytical Approach and many other titles](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bb234-3227-45b6-8e2f-0e894ddbe0d8.jpg)
