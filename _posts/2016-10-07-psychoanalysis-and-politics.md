@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-19T23:55:21.779Z'
+datePublished: '2016-10-19T23:59:02.111Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
@@ -7,8 +7,8 @@ author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2016-10-19T23:55:21.100Z'
-title: ''
+dateModified: '2016-10-19T23:59:01.103Z'
+title: Psychoanalysis and Politics by David Morgan
 publisher: {}
 description: >-
   In times of political turmoil, where does one turn to for insight? Faith is
@@ -18,10 +18,6 @@ url: aap-annual-conference/index.html
 _type: Article
 
 ---
-[Psychoanalysis and Politics][0]
-
-# 
-
 # **Psychoanalysis and Politics **  
 by **David Morgan**
 
@@ -36,7 +32,7 @@ followed by lunch
 **LSE **  
 **London**  
 **WC2A 2AE**
-[Booking][1]
+[Booking][0]
 
 In times of political turmoil, where does one turn to for insight? Faith is the persistence and continuity of humanity. (**Updike**)
 
@@ -58,17 +54,18 @@ He is a training/supervising analyst of the **BPA**; Fellow of the **BPAS**; tra
 
 He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **BBC Radio 4** on various topics. He lectures on a variety of subjects within the **UK** and abroad, and was main guest speaker with **Ruth McCall** at the **Freud Conference**, **Melbourne**, **Australia 2016**. He is the guest speaker at the **Bob Gosling Memorial Lecture 2017**.
 
-### **[Public Interest Psychology][2]**
+### **[Public Interest Psychology][1]**
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa19000f8b85c8cb83ea9d706c934d2a91438dcf.png" /><h1>David Morgan|Psychologist</h1><p>Psychologist David Morgan, support in Asylum Cases and Psychological Support for Whistle-Blowers, London NW3</p></article>
 
 ## **Book Immediately on Eventbrite**
-[Psychoanalysis and Politics | David Morgan][3]
+[Psychoanalysis and Politics | David Morgan][2]
+
+# 
 
 ## **Further Booking Details**
-[Booking][1]
+[Booking][0]
 
-[0]: http://aapmembers.org/aap-annual-conference
-[1]: http://aapmembers.org/booking
-[2]: http://www.publicinterestpsychology.co.uk/ "Public Interest Psychology"
-[3]: https://www.eventbrite.co.uk/e/aap-annual-conference-psychoanalysis-and-politics-david-morgan-tickets-28528329000?ref=elink
+[0]: http://aapmembers.org/booking
+[1]: http://www.publicinterestpsychology.co.uk/ "Public Interest Psychology"
+[2]: https://www.eventbrite.co.uk/e/aap-annual-conference-psychoanalysis-and-politics-david-morgan-tickets-28528329000?ref=elink
