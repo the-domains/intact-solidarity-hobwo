@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-19T23:46:54.370Z'
+datePublished: '2016-10-19T23:50:26.601Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
@@ -7,8 +7,8 @@ author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2016-10-19T23:46:53.826Z'
-title: ————
+dateModified: '2016-10-19T23:50:25.980Z'
+title: ''
 publisher: {}
 description: >-
   In times of political turmoil, where does one turn to for insight? Faith is
@@ -20,7 +20,7 @@ _type: Article
 ---
 [Psychoanalysis and Politics][0]
 
-# ------------
+# 
 
 # **Psychoanalysis and Politics **  
 by **David Morgan**
