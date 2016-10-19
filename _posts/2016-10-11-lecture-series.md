@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-19T00:36:43.531Z'
+datePublished: '2016-10-19T00:43:59.570Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T00:36:42.977Z'
+dateModified: '2016-10-19T00:43:59.011Z'
 title: Lecture Series
 publisher: {}
-description: (link)
+description: Marilyn Lawrence
 starred: true
 url: lecture-series/index.html
 _type: Article
@@ -16,18 +16,14 @@ _type: Article
 ---
 # **Lecture Series**
 
-## **[Her][0]**
-
-(link)
+## **[Her][0]**(link)
 
 ## **discussed by Andrea Sabbadini**
 
 ### **Spring Conference May 2016**
 ![http://aapmembers.org/her](https://s3-us-west-2.amazonaws.com/the-grid-img/p/552cbd3d65eb5650fb1d174e7a6ecbed5c612a0d.gif)
 
-## **[Eating Disorders][1]**
-
-(link)
+## **[Eating Disorders][1]** (link)
 
 ### **Autumn Annual Conference November 2015**
 
@@ -39,18 +35,14 @@ Dr. Bryony Bamford
 
 The London Centre For Eating Disorders and Body Image
 
-## **[Barbara Taylor][2]**
-
-(link)
+## **[Barbara Taylor][2]**(link)
 
 ## **In Conversation with Morton Schatzman**
 
 ### **Spring Conference May 2015**
 ![Professor of Humanities](https://s3-us-west-2.amazonaws.com/the-grid-img/p/991629040c7091b616f88a49ae74df716f913f74.jpg)
 
-## **[Trauma][3]**
-
-(link)
+## **[Trauma][3]**(link)
 
 ### **Autumn Annual Conference November 2014**
 ![author of Understanding Trauma: A Psychoanalytical Approach and many other titles](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bb234-3227-45b6-8e2f-0e894ddbe0d8.jpg)
@@ -66,7 +58,7 @@ The AAP Lecture Series covers a wide range of topics of interest to professional
 We encourage participation and interesting debate. We are always interested in different approaches, how we can learn and be enriched by each other.
 
 [0]: http://aapmembers.org/her "Her"
-[1]: http://aapmembers.org/eating-disorders  "Eating Disorders"
+[1]: http://aapmembers.org/eating-disorders "Eating Disorders"
 [2]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman "Barbara Taylor"
 [3]: http://aapmembers.org/trauma "Trauma"
 [4]: https://www.bpc.org.uk/find-a-therapist/therapist/7084 "Caroline Garland"
