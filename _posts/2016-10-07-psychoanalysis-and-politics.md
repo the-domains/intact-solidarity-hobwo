@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-19T23:59:02.111Z'
+datePublished: '2016-10-27T18:10:42.299Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2016-10-19T23:59:01.103Z'
+dateModified: '2016-10-27T18:08:24.119Z'
 title: Psychoanalysis and Politics by David Morgan
 publisher: {}
 description: >-
@@ -36,9 +36,9 @@ followed by lunch
 
 In times of political turmoil, where does one turn to for insight? Faith is the persistence and continuity of humanity. (**Updike**)
 
-"Things fall apart; the centre cannot hold"? (**Yeats**).
+"Things fall apart; the centre cannot hold"? (**Yeats**)
 
-"The old is dying and the new cannot be born; in this interregnum a great variety of morbid symptoms appear" (**Gramici**)
+"The old is dying and the new cannot be born; in this interregnum a great variety of morbid symptoms appear" (**Gramsci**)
 
 "Everything must change so that everything can stay the same." (**Tancredi** in "**The Leopard**")
 
@@ -60,8 +60,6 @@ He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **
 
 ## **Book Immediately on Eventbrite**
 [Psychoanalysis and Politics | David Morgan][2]
-
-# 
 
 ## **Further Booking Details**
 [Booking][0]
