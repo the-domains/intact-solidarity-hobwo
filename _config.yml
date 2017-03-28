@@ -20,9 +20,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffeee52-6d9f-4f52-b6c4-9d200d6451e8.png
 name: The AAP
 navigation:
-  - name: AAP Annual Lecture
-    id: ad2adb7c-a48f-4c66-93ae-9347c3c0e647
-    type: content
   - name: Booking
     id: a6e30317-d397-42dd-a2ad-16ec4d842a81
     type: content
