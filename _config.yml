@@ -50,9 +50,9 @@ title: The Association of Arbours Psychotherapists
 content: []
 description: professional work of the association of arbours psychotherapists (AAP)
 purpose:
-  - type: external
-    label: Annual Conference
-    url: 'http://aapmembers.org/aap-annual-conference'
+  - type: internal
+    label: Spring Lecture 2017
+    item: 59fbfeae-3b4f-40b9-ad28-f6e0812d86cd
   - type: external
     label: Lecture Series
     url: 'http://aapmembers.org/lecture-series'
