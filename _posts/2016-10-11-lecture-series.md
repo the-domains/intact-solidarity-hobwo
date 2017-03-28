@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-28T17:26:55.272Z'
+datePublished: '2017-03-28T17:51:07.402Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-28T17:26:54.167Z'
+dateModified: '2017-03-28T17:51:06.801Z'
 title: Lecture Series
 publisher: {}
 description: Marilyn Lawrence
