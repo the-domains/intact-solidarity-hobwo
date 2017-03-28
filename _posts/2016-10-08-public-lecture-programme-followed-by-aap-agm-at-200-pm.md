@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-03-28T22:36:02.256Z'
+datePublished: '2017-03-28T22:48:16.707Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-28T22:36:01.741Z'
-title: Annual Lecture Program and Directions
+dateModified: '2017-03-28T22:48:16.315Z'
+title: Spring Lecture Program and Directions
 publisher: {}
 description: '10.00 Registration, tea and coffee'
 starred: true
@@ -15,7 +15,7 @@ url: cominglecture/index.html
 _type: MediaObject
 
 ---
-# **Annual Lecture  
+# **Spring Lecture  
 Program and Directions**
 
 ## **Details**
