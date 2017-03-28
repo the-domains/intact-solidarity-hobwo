@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-28T17:33:54.999Z'
+datePublished: '2017-03-28T17:35:37.084Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2017-03-28T17:33:54.527Z'
+dateModified: '2017-03-28T17:35:36.669Z'
 title: Psychoanalysis and Politics by David Morgan
 publisher: {}
 description: >-
@@ -52,8 +52,7 @@ He is the presenter of "**Frontier Psychoanalyst**" and has also broadcast on **
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa19000f8b85c8cb83ea9d706c934d2a91438dcf.png" /><h1>David Morgan|Psychologist</h1><p>Psychologist David Morgan, support in Asylum Cases and Psychological Support for Whistle-Blowers, London NW3</p></article>
 
-<button data-role="cta" style="">Open</button>
-
-
+[Screening of the film HER][1]
 
 [0]: http://www.publicinterestpsychology.co.uk/ "Public Interest Psychology"
+[1]: https://aapmembers.org/her/
