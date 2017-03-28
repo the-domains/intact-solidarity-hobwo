@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-28T22:46:33.829Z'
+datePublished: '2017-03-28T22:47:24.008Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-28T22:46:33.379Z'
+dateModified: '2017-03-28T22:47:23.579Z'
 title: Lecture Series
 publisher: {}
 description: >-
@@ -58,7 +58,7 @@ Freud like Tancredi was pretty pessimistic about social change, despite at the b
 ## **[Trauma][4]**
 
 ### **Autumn Annual Conference November 2014**
-![author of Understanding Trauma: A Psychoanalytical Approach and many other titles](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bb234-3227-45b6-8e2f-0e894ddbe0d8.jpg)
+![Author of Understanding Trauma: A Psychoanalytical Approach and many other titles](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bb234-3227-45b6-8e2f-0e894ddbe0d8.jpg)
 
 ## [Caroline Garland][5]
 
