@@ -1,13 +1,13 @@
 ---
-datePublished: '2017-03-28T17:36:23.630Z'
+datePublished: '2017-03-28T17:37:48.648Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
-inFeed: true
+inFeed: false
 hasPage: true
 author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2017-03-28T17:36:22.959Z'
+dateModified: '2017-03-28T17:37:48.250Z'
 title: Psychoanalysis and Politics by David Morgan
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
 starred: true
 datePublishedOriginal: '2017-03-28T17:15:49.794Z'
 url: psychoanalysis-and-politics-by-david-morgan/index.html
-_type: Article
+_type: MediaObject
 
 ---
 <button data-role="cta" style="">Annual Conference 2016</button>
