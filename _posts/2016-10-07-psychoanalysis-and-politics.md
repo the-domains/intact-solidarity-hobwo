@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-27T18:10:42.299Z'
+datePublished: '2017-03-28T16:57:05.179Z'
 sourcePath: _posts/2016-10-07-psychoanalysis-and-politics.md
 inFeed: true
 hasPage: true
@@ -7,14 +7,15 @@ author:
   - name: David Morgan
     url: 'http://www.publicinterestpsychology.co.uk/'
 via: {}
-dateModified: '2016-10-27T18:08:24.119Z'
+dateModified: '2017-03-28T16:57:04.969Z'
 title: Psychoanalysis and Politics by David Morgan
 publisher: {}
 description: >-
   In times of political turmoil, where does one turn to for insight? Faith is
   the persistence and continuity of humanity. (Updike)
+datePublishedOriginal: '2017-03-28T16:57:05.179Z'
 starred: true
-url: aap-annual-conference/index.html
+url: psychoanalysis-and-politics-by-david-morgan/index.html
 _type: Article
 
 ---
