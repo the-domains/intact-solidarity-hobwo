@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-28T23:15:19.558Z'
+datePublished: '2017-03-28T23:18:10.417Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-28T23:15:19.140Z'
+dateModified: '2017-03-28T23:18:10.014Z'
 title: Lecture Series
 publisher: {}
 description: >-
@@ -23,7 +23,7 @@ _type: Article
 ---
 # **Lecture Series**
 
-## **[Psychoanalysis and Politics][0]**
+# **[Psychoanalysis and Politics][0]**
 
 ## **by David Morgan**
 
@@ -36,7 +36,7 @@ Freud like Tancredi was pretty pessimistic about social change, despite at the b
 ### **Spring Conference May 2016**
 ![http://aapmembers.org/her](https://s3-us-west-2.amazonaws.com/the-grid-img/p/552cbd3d65eb5650fb1d174e7a6ecbed5c612a0d.gif)
 
-## **[Eating Disorders][2]**
+# **[Eating Disorders][2]**
 
 ### **Autumn Annual Conference November 2015**
 
@@ -48,14 +48,14 @@ Freud like Tancredi was pretty pessimistic about social change, despite at the b
 
 ### The London Centre For Eating Disorders and Body Image
 
-## **[Barbara Taylor][3]**
+# **[Barbara Taylor][3]**
 
 ## **In Conversation with Morton Schatzman**
 
 ### **Spring Conference May 2015**
 ![Professor of Humanities](https://s3-us-west-2.amazonaws.com/the-grid-img/p/991629040c7091b616f88a49ae74df716f913f74.jpg)
 
-## **[Trauma][4]**
+# **[Trauma][4]**
 
 ### **Autumn Annual Conference November 2014**
 ![Author of Understanding Trauma: A Psychoanalytical Approach and many other titles](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bb234-3227-45b6-8e2f-0e894ddbe0d8.jpg)
@@ -72,9 +72,9 @@ The AAP Lecture Series covers a wide range of topics of interest to professional
 
 We encourage participation and interesting debate. We are always interested in different approaches, how we can learn and be enriched by each other.
 
-[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/ "Psychoanalysis and Politics"
+[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/%22%20title=%22Psychoanalysis%20and%20Politics "Psychoanalysis and Politics"
 [1]: http://aapmembers.org/her "Her"
-[2]: http://aapmembers.org/eating-disorders
+[2]: http://aapmembers.org/eating-disorders "Eating Disorders"
 [3]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman
 [4]: http://aapmembers.org/trauma
 [5]: https://www.bpc.org.uk/find-a-therapist/therapist/7084 "Caroline Garland"
