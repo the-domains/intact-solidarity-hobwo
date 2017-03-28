@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-28T22:47:24.008Z'
+datePublished: '2017-03-28T23:15:19.558Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-28T22:47:23.579Z'
+dateModified: '2017-03-28T23:15:19.140Z'
 title: Lecture Series
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ _type: Article
 
 Freud like Tancredi was pretty pessimistic about social change, despite at the beginning of his career recognising the profound effects of trauma and inequality on his patients. He contributed enormously to our understanding of the mind. However, nothing human can be understood in the abstract. We also have to interpret thoughts, feelings and behaviours in their social context. In his lecture, David Morgan will provide a framework to address these issues.
 
-## **[Her][1]**
+# **[Her][1]**
 
 ## **discussed by Andrea Sabbadini**
 
@@ -73,7 +73,7 @@ The AAP Lecture Series covers a wide range of topics of interest to professional
 We encourage participation and interesting debate. We are always interested in different approaches, how we can learn and be enriched by each other.
 
 [0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/ "Psychoanalysis and Politics"
-[1]: http://aapmembers.org/her
+[1]: http://aapmembers.org/her "Her"
 [2]: http://aapmembers.org/eating-disorders
 [3]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman
 [4]: http://aapmembers.org/trauma
