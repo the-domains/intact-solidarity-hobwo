@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: AAP Spring Lecture
-dateModified: '2017-03-28T17:58:02.275Z'
-datePublished: '2017-03-28T17:58:02.640Z'
+dateModified: '2017-03-28T18:00:07.177Z'
+datePublished: '2017-03-28T18:00:07.627Z'
 title: ''
 author: []
 publisher: {}
