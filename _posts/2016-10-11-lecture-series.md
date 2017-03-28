@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-10-21T00:47:39.166Z'
+datePublished: '2017-03-28T17:26:55.272Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-21T00:47:38.310Z'
+dateModified: '2017-03-28T17:26:54.167Z'
 title: Lecture Series
 publisher: {}
 description: Marilyn Lawrence
 starred: true
+datePublishedOriginal: '2016-10-21T00:47:39.166Z'
 url: lecture-series/index.html
 _type: Article
 
@@ -52,6 +53,8 @@ The London Centre For Eating Disorders and Body Image
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ad5717ba83112c4d5235b6cddd47744b929c58b.png" /><h1>Maeve Crowley - Anna Freud National Centre for Children and Families</h1><p>Maeve Crowley is a Consultant Clinical Psychologist and a Europe Approved EMDR Consultant and Facilitator.  She leads a Complex Trauma service in Sussex Partnership NHS Foundation Trust, which deals with clients on the Dissociative spectrum. She trains, supervises and teaches in the area of Complex Trauma and EMDR in her local NHS Trust and nationally. She is President of the EMDR UK and Ireland Board. She also has a small private practice. </p></article>
 
 [Maeve Crowley][5]
+
+---
 
 The AAP Lecture Series covers a wide range of topics of interest to professionals in the psychotherapeutic and allied team area as well as to individuals.
 
