@@ -20,6 +20,9 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bffeee52-6d9f-4f52-b6c4-9d200d6451e8.png
 name: The AAP
 navigation:
+  - name: Spring Lecture
+    id: 59fbfeae-3b4f-40b9-ad28-f6e0812d86cd
+    type: content
   - name: Booking
     id: a6e30317-d397-42dd-a2ad-16ec4d842a81
     type: content
@@ -28,9 +31,6 @@ navigation:
     type: content
   - name: Lecture Series
     id: 6a596e3d-88e2-4147-9d1c-74a879c9a683
-    type: content
-  - name: Spring Lecture
-    id: 59fbfeae-3b4f-40b9-ad28-f6e0812d86cd
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/512dbea8-7601-4bda-8e98-a7ceed86e1b7.png
