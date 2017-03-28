@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-03-28T23:23:18.005Z'
+datePublished: '2017-03-28T23:27:50.514Z'
 sourcePath: _posts/2016-10-10-screening-of-the-film-her.md
 inFeed: false
 hasPage: true
 author:
   - name: A.I. Women From Film
 via: {}
-dateModified: '2017-03-28T23:23:17.618Z'
+dateModified: '2017-03-28T23:27:50.232Z'
 title: HER
 publisher:
   name: Images www.backstage.com
