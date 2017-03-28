@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-28T23:18:10.417Z'
+datePublished: '2017-03-28T23:25:41.291Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-28T23:18:10.014Z'
+dateModified: '2017-03-28T23:25:40.874Z'
 title: Lecture Series
 publisher: {}
 description: >-
@@ -72,7 +72,7 @@ The AAP Lecture Series covers a wide range of topics of interest to professional
 
 We encourage participation and interesting debate. We are always interested in different approaches, how we can learn and be enriched by each other.
 
-[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/%22%20title=%22Psychoanalysis%20and%20Politics "Psychoanalysis and Politics"
+[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/index.html "Psychoanalysis and Politics"
 [1]: http://aapmembers.org/her "Her"
 [2]: http://aapmembers.org/eating-disorders "Eating Disorders"
 [3]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman
