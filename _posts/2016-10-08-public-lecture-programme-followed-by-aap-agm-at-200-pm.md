@@ -1,63 +1,61 @@
 ---
-datePublished: '2016-10-19T23:41:49.174Z'
+datePublished: '2017-03-28T21:27:41.782Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-19T23:41:48.624Z'
-title: Annual Lecture Directions
+dateModified: '2017-03-28T21:27:41.351Z'
+title: Annual Lecture Program and Directions
 publisher: {}
-description: 'Followed by the AAP AGM at 2:00 pm :'
+description: '10.00 Registration, tea and coffee'
 starred: true
+datePublishedOriginal: '2016-10-19T23:41:49.174Z'
 url: cominglecture/index.html
 _type: MediaObject
 
 ---
-# **Annual Lecture Directions**
+# **Annual Lecture Program and Directions**
 
 ## **Details**
 
-## **The AAP PUBLIC LECTURE SERIES**
+## **THE AAP PUBLIC LECTURE SERIES**
 
-Followed by the AAP AGM at 2:00 pm :
+## **Spring Lecture 2017**
 
-9.45 Registration, tea, coffee
+### **PROGRAMME:**
 
-10.15 Welcome by Laura Forti
+**10.00 Registration, tea and coffee**
 
-10.20 Part One  
-11.00 Questions from the floor  
-11.20 Break
+**10.30 Welcome and introduction**
 
-11.45 Part Two  
-12.30 Questions from the floor  
-13.00 Lunch for everyone
+**10.40 Lecture**
 
-14.00 AGM for Arbours members  
-16.00 Close
+**11.30 Discussion**
 
-VENUE:  
-Room CLM.2.05 Clement House  
-LSE  
-Aldwych  
-London WC2A 2AE
+**12.00 Finish**
 
-Closest tube: Holborn. Exit via Aldwych
+**VENUE:**
+
+## **Freud Museum  
+20 Maresfield Gardens  
+London NW3 5SX**
+
+Nearest tube Finchley Road.
+
+---
 
 Map and Directions
 
-⎯⎯⎯
-[Directions (external link)][0]
+<iframe src="https://the-grid.github.io/ed-location/?latitude=51.5488359293228&amp;longitude=-0.17744263545338&amp;zoom=16&amp;address=NW3%205SX%2C%20Greater%20London%2C%20England%2C%20United%20Kingdom" style=""></iframe>
 
 ⎯⎯⎯
-[Map of the area (pdf)][1]
+[Directions: external link][0]
 
 ⎯⎯⎯
-[Booking][2]
+[Booking][1]
 
 ⎯⎯⎯
 
-[0]: http://www.lse.ac.uk/mapsAndDirections/travellingToLSE.aspx
-[1]: http://www.lse.ac.uk/mapsAndDirections/LSElocationMap.pdf
-[2]: http://aapmembers.org/booking/
+[0]: http://www.freud.org.uk/visit/
+[1]: http://aapmembers.org/booking/
