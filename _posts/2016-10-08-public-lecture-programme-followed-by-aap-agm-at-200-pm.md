@@ -1,13 +1,14 @@
 ---
-datePublished: '2017-03-28T22:48:16.707Z'
+datePublished: '2017-03-28T22:52:38.446Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-28T22:48:16.315Z'
-title: Spring Lecture Program and Directions
-publisher: {}
+dateModified: '2017-03-28T22:52:37.852Z'
+title: Spring LectureProgram and Directions
+publisher:
+  name: bbc.com
 description: '10.00 Registration, tea and coffee'
 starred: true
 datePublishedOriginal: '2016-10-19T23:41:49.174Z'
@@ -15,6 +16,8 @@ url: cominglecture/index.html
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d7ff102-af96-4414-9d3b-96abe9d7493f.jpg)
+
 # **Spring Lecture  
 Program and Directions**
 
