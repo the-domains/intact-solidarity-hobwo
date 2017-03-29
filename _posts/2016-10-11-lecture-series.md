@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-29T00:29:36.515Z'
+datePublished: '2017-03-29T00:32:05.445Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-29T00:29:35.998Z'
+dateModified: '2017-03-29T00:32:04.998Z'
 title: Lecture Series
 publisher: {}
 description: >-
@@ -72,9 +72,9 @@ The AAP Lecture Series covers a wide range of topics of interest to professional
 
 We encourage participation and interesting debate. We are always interested in different approaches, how we can learn and be enriched by each other.
 
-[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/index.html "Psychoanalysis and Politics"
-[1]: http://aapmembers.org/her "Her"
-[2]: http://aapmembers.org/eating-disorders "Eating Disorders"
+[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/index.html
+[1]: http://aapmembers.org/her
+[2]: http://aapmembers.org/eating-disorders
 [3]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman
 [4]: http://aapmembers.org/trauma
 [5]: https://www.bpc.org.uk/find-a-therapist/therapist/7084 "Caroline Garland"
