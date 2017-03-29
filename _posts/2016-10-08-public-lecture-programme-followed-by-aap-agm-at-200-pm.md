@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-29T15:50:23.043Z'
+datePublished: '2017-03-29T15:50:29.297Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: Corbis
 via:
   name: Corbis
-dateModified: '2017-03-29T15:50:22.627Z'
+dateModified: '2017-03-29T15:50:28.830Z'
 title: Spring Lecture Program and Directions
 publisher:
   name: bbc.com
