@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-29T00:35:32.324Z'
+datePublished: '2017-03-29T01:00:11.163Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-29T00:35:31.762Z'
+dateModified: '2017-03-29T01:00:10.654Z'
 title: Lecture Series
 publisher: {}
 description: >-
@@ -28,6 +28,8 @@ _type: Article
 ## **by David Morgan**
 
 Freud like Tancredi was pretty pessimistic about social change, despite at the beginning of his career recognising the profound effects of trauma and inequality on his patients. He contributed enormously to our understanding of the mind. However, nothing human can be understood in the abstract. We also have to interpret thoughts, feelings and behaviours in their social context. In his lecture, David Morgan will provide a framework to address these issues.
+
+[http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/index.html][0]
 
 # **[Her][1]**
 
