@@ -29,9 +29,6 @@ navigation:
   - name: Booking
     id: a6e30317-d397-42dd-a2ad-16ec4d842a81
     type: content
-  - name: Annual Lecture (2016)
-    id: 5d2e3448-5f03-4cbc-8029-d08962f0c481
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/512dbea8-7601-4bda-8e98-a7ceed86e1b7.png
 collections:
