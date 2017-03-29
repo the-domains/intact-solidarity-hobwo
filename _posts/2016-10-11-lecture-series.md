@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-29T01:00:11.163Z'
+datePublished: '2017-03-29T01:02:02.452Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-29T01:00:10.654Z'
+dateModified: '2017-03-29T01:02:01.998Z'
 title: Lecture Series
 publisher: {}
 description: >-
