@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-29T00:02:28.886Z'
+datePublished: '2017-03-29T00:03:29.582Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-29T00:02:28.395Z'
+dateModified: '2017-03-29T00:03:29.182Z'
 title: Spring LectureProgram and Directions
 publisher:
   name: bbc.com
