@@ -23,9 +23,6 @@ navigation:
   - name: Spring Lecture
     id: 59fbfeae-3b4f-40b9-ad28-f6e0812d86cd
     type: content
-  - name: Further Details
-    id: 3eb437f5-428b-4698-b446-fa64a04a0ed6
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/512dbea8-7601-4bda-8e98-a7ceed86e1b7.png
 collections:
