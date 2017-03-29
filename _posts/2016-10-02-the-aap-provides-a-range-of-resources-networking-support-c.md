@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-18T23:34:03.957Z'
+datePublished: '2017-03-29T01:15:32.145Z'
 sourcePath: >-
   _posts/2016-10-02-the-aap-provides-a-range-of-resources-networking-support-c.md
 inFeed: true
@@ -8,19 +8,20 @@ author:
   - name: AAP
     url: 'http://aapmembers.org'
 via: {}
-dateModified: '2016-10-18T23:30:52.051Z'
-title: 'The AAP:An Introduction'
+dateModified: '2017-03-29T01:15:31.619Z'
+title: 'The AAP: An Introduction'
 publisher:
   name: AAP
   url: 'http://aapmembers.org'
 description: 'Sigmund Freud, Dream Psychology: Psychoanalysis for Beginners, 1921'
 starred: true
+datePublishedOriginal: '2016-10-18T23:34:03.957Z'
 _type: Blurb
 
 ---
 ![Letting the light shine in](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6351b41-f42f-46b6-8e52-0da2fe12f872.jpg)
 
-# The AAP:An Introduction
+# The AAP: An Introduction
 
 > The unconscious is the larger circle which includes within itself the smaller circle of the conscious ... 
 
