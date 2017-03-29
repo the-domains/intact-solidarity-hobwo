@@ -3,22 +3,22 @@ inFeed: true
 description: >-
   All cultures develop their own modes of selfexplanation, but such
   explanations, somewhat like symptoms, inevitably conceal as much as they
-  reveal. In this sense psychoanalysis may be well placed to enter into a
+  reveal.In this sense psychoanalysis may be well placed to enter into a
   critical relationship with the forms of consciousness that characterise our
   age. The ideology of the market has so penetrated into social consciousness
-  that it appears as "normality", but this normality can be problematic. The
+  that it appears as "normality", but this normality can be problematic.The
   presentation will, then, fall into two parts. In the first some broad
   socio-cultural considerations will be offered as regards our contemporary
-  world with an emphasis on its impact upon mental health.  Special reference
+  world with an emphasis on its impact upon mental health. Special reference
   will then be made to the work of the Fitzjohn's Unit, a specialist service
   based within the Adult Department of the Tavistock Clinic, that provides a
   unique psychotherapeutic treatment for patients enduring severe psychiatric
   disorders. The lecture will then focus on the deterioration in psychiatric
   care. This deterioration creates an environment which is increasingly hostile
-  to the kind of thinking that psychoanalysis represents. This latter part
-  should hopefully be understood in the context of the former exploration.
-dateModified: '2017-03-28T22:27:47.439Z'
-datePublished: '2017-03-28T22:27:47.875Z'
+  to the kind of thinking that psychoanalysis represents.This latter part should
+  hopefully be understood in the context of the former exploration.
+dateModified: '2017-03-29T00:12:37.751Z'
+datePublished: '2017-03-29T00:12:38.191Z'
 title: AAP Spring 2017 Lecture
 author: []
 publisher:
@@ -54,4 +54,4 @@ He is a Consultant psychiatrist at the Tavistock where he directs a Specialist U
 
 [0]: http://www.melanie-klein-trust.org.uk/bell "bibliography"
 [1]: https://www.eventbrite.co.uk/e/whither-psychiatry-david-bell-aap-spring-2017-lecture-tickets-32833276213
-[2]: https://aapmembers.org/cominglecture/
+[2]: http://aapmembers.org/spring-lectureprogram-and-directions
