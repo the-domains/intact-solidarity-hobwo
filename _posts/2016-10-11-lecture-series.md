@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-29T00:06:57.572Z'
+datePublished: '2017-03-29T00:11:46.680Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-29T00:06:57.109Z'
+dateModified: '2017-03-29T00:11:46.095Z'
 title: Lecture Series
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
   have to interpret thoughts, feelings and behaviours in their social context.
   In his lecture, David Morgan will provide a framework to address these issues.
 starred: true
-datePublishedOriginal: '2017-03-28T23:44:10.976Z'
+datePublishedOriginal: '2016-10-21T00:47:39.166Z'
 url: lecture-series/index.html
 _type: Article
 
@@ -72,7 +72,7 @@ The AAP Lecture Series covers a wide range of topics of interest to professional
 
 We encourage participation and interesting debate. We are always interested in different approaches, how we can learn and be enriched by each other.
 
-[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/index.html "Psychoanalysis and Politics"
+[0]: http://aapmembers.org/psychoanalysis-and-politics-by-david-morgan/ "Psychoanalysis and Politics"
 [1]: http://aapmembers.org/her "Her"
 [2]: http://aapmembers.org/eating-disorders "Eating Disorders"
 [3]: http://aapmembers.org/barbara-taylor-in-conversation-with-morton-schatzman
