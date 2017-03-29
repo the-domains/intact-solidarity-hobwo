@@ -1,14 +1,17 @@
 ---
-datePublished: '2017-03-29T01:23:59.266Z'
+datePublished: '2017-03-29T15:35:25.511Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
-author: []
-via: {}
-dateModified: '2017-03-29T01:23:58.651Z'
+author:
+  - name: Corbis
+via:
+  name: Corbis
+dateModified: '2017-03-29T15:35:24.990Z'
 title: Spring LectureProgram and Directions
 publisher:
   name: bbc.com
+  url: 'http://www.bbc.com/culture/story/20140421-does-freud-still-matter'
 description: ''
 starred: true
 datePublishedOriginal: '2017-03-29T00:02:27.149Z'
