@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-29T15:39:07.531Z'
+datePublished: '2017-03-29T15:42:33.087Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
@@ -7,12 +7,12 @@ author:
   - name: Corbis
 via:
   name: Corbis
-dateModified: '2017-03-29T15:39:06.686Z'
+dateModified: '2017-03-29T15:42:32.544Z'
 title: Spring Lecture Program and Directions
 publisher:
   name: bbc.com
   url: 'http://www.bbc.com/culture/story/20140421-does-freud-still-matter'
-description: ''
+description: 'PROGRAMME:'
 starred: true
 datePublishedOriginal: '2017-03-29T00:02:27.149Z'
 url: spring-lectureprogram-and-directions/index.html
@@ -24,15 +24,13 @@ _type: MediaObject
 # **Spring Lecture   
 Program and Directions**
 
-## **Details**
+### **Details**
 
-### **THE AAP PUBLIC LECTURE SERIES**
+## **THE AAP PUBLIC LECTURE SERIES**
 
 ### **Spring Lecture 2017**
 
----
-
-### **PROGRAMME:**
+**PROGRAMME:**
 
 * **10.00 Registration, tea and coffee**
 * **10.30 Welcome and introduction**
@@ -44,9 +42,12 @@ Program and Directions**
 
 **VENUE:**
 
-## **Freud Museum  
-20 Maresfield Gardens  
-London NW3 5SX**
+---
+
+## **Freud Museum,  
+20 Maresfield Gardens,  
+London,  
+NW3 5SX**
 
 Nearest tube Finchley Road.
 
