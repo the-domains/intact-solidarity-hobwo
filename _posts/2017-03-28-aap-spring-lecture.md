@@ -17,8 +17,8 @@ description: >-
   care. This deterioration creates an environment which is increasingly hostile
   to the kind of thinking that psychoanalysis represents.This latter part should
   hopefully be understood in the context of the former exploration.
-dateModified: '2017-03-29T00:12:37.751Z'
-datePublished: '2017-03-29T00:12:38.191Z'
+dateModified: '2017-03-29T01:23:15.343Z'
+datePublished: '2017-03-29T01:23:15.939Z'
 title: AAP Spring 2017 Lecture
 author: []
 publisher:
