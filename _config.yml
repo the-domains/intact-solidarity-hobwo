@@ -32,6 +32,9 @@ navigation:
   - name: Annual Lecture (2016)
     id: 5d2e3448-5f03-4cbc-8029-d08962f0c481
     type: content
+  - name: Lecture Series
+    id: 6a596e3d-88e2-4147-9d1c-74a879c9a683
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/512dbea8-7601-4bda-8e98-a7ceed86e1b7.png
 collections:
