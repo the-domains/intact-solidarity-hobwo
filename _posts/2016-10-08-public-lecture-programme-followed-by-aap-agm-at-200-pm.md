@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-29T15:47:48.604Z'
+datePublished: '2017-03-29T15:48:54.773Z'
 sourcePath: _posts/2016-10-08-public-lecture-programme-followed-by-aap-agm-at-200-pm.md
 inFeed: false
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: Corbis
 via:
   name: Corbis
-dateModified: '2017-03-29T15:47:48.142Z'
+dateModified: '2017-03-29T15:48:54.342Z'
 title: Spring Lecture Program and Directions
 publisher:
   name: bbc.com
@@ -42,7 +42,7 @@ Program and Directions**
 
 **VENUE**
 
-## **Freud Museum,  
+**Freud Museum,  
 20 Maresfield Gardens,  
 London,  
 NW3 5SX**
