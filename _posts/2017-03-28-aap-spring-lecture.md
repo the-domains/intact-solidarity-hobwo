@@ -4,8 +4,8 @@ description: >-
   All cultures develop their own modes of self explanation, but such
   explanations, somewhat like symptoms, inevitably conceal as much as they
   reveal.
-dateModified: '2017-10-11T12:32:17.153Z'
-datePublished: '2017-10-11T12:32:19.022Z'
+dateModified: '2017-10-11T13:09:27.040Z'
+datePublished: '2017-10-11T13:09:27.445Z'
 title: AAP Spring 2017 Lecture
 author: []
 publisher:
