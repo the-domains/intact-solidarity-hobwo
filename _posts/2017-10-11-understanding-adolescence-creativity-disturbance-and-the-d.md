@@ -10,8 +10,8 @@ description: >-
   worrying adolescent.It will, I hope, show how difficulties are tackled
   psychoanalytically and the enormous anxiety and terror adolescents project
   into those around them.
-dateModified: '2017-10-11T13:25:48.576Z'
-datePublished: '2017-10-11T13:25:49.464Z'
+dateModified: '2017-10-11T14:00:06.335Z'
+datePublished: '2017-10-11T14:00:07.578Z'
 title: >-
   Understanding Adolescence: Creativity, Disturbance and the Developmental
   Process.
@@ -29,7 +29,7 @@ _type: Article
 ---
 # Understanding Adolescence: Creativity, Disturbance and the Developmental Process.
 
-## Hannah Solemani, 25th November 2017
+## **Hannah Solemani**, 25th November 2017
 
 Adolescence is perhaps the most difficult and drastic phase in human development.  
 Although not an illness or trauma, it is full of major physical and psychological changes that may lead to serious and possible fatal pathological consequences.  
