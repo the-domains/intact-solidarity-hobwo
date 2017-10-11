@@ -11,8 +11,8 @@ description: >-
   clinical work, of an analysis with a very worrying adolescent.It will, I hope,
   show how difficulties are tackled psychoanalytically and the enormous anxiety
   and terror adolescents project into those around them.
-dateModified: '2017-10-11T12:30:23.043Z'
-datePublished: '2017-10-11T12:30:23.716Z'
+dateModified: '2017-10-11T13:09:27.040Z'
+datePublished: '2017-10-11T13:09:27.475Z'
 title: >-
   Understanding Adolescence: Creativity, Disturbance and the Developmental
   Process.
