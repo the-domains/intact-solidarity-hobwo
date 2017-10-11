@@ -2,16 +2,16 @@
 inFeed: true
 description: >-
   Adolescence is perhaps the most difficult and drastic phase in human
-  development. Although not an illness or trauma, it is full of major physical
+  development.Although not an illness or trauma, it is full of major physical
   and psychological changes that may lead to serious and possible fatal
-  pathological consequences.  In this paper I will look at the developmental
+  pathological consequences. In this paper I will look at the developmental
   tasks that face the adolescent and consider how these are negotiated. I will
   also illustrate this with some clinical work, of an analysis with a very
-  worrying adolescent. It will, I hope, show how difficulties are tackled
+  worrying adolescent.It will, I hope, show how difficulties are tackled
   psychoanalytically and the enormous anxiety and terror adolescents project
   into those around them.
-dateModified: '2017-10-11T13:10:46.588Z'
-datePublished: '2017-10-11T13:10:47.324Z'
+dateModified: '2017-10-11T13:25:48.576Z'
+datePublished: '2017-10-11T13:25:49.464Z'
 title: >-
   Understanding Adolescence: Creativity, Disturbance and the Developmental
   Process.
@@ -28,6 +28,8 @@ _type: Article
 
 ---
 # Understanding Adolescence: Creativity, Disturbance and the Developmental Process.
+
+## Hannah Solemani, 25th November 2017
 
 Adolescence is perhaps the most difficult and drastic phase in human development.  
 Although not an illness or trauma, it is full of major physical and psychological changes that may lead to serious and possible fatal pathological consequences.  
@@ -49,7 +51,9 @@ Dr Maxim De Sauma is a Training and Supervising Analyst, as well as Child and Ad
 12.45 Concluding remarks, Hannah Solemani and Dr. Maxim de Sauma  
 13.00 Lunch for everyone  
 14.00 AGM for Arbours Members  
-16.00 Close  
+16.00 Close
+
+**10:00 - 1:00 25th November 2017**  
 **PLEASE NOTE VENUE ADDRESS:**  
 _**Room TW2.2.04 LSE**_  
 _Second Floor  
