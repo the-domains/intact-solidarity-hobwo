@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  All cultures develop their own modes of selfexplanation, but such
+  All cultures develop their own modes of self explanation, but such
   explanations, somewhat like symptoms, inevitably conceal as much as they
   reveal.
-dateModified: '2017-03-29T15:23:14.786Z'
-datePublished: '2017-03-29T15:23:15.309Z'
+dateModified: '2017-10-11T12:32:17.153Z'
+datePublished: '2017-10-11T12:32:19.022Z'
 title: AAP Spring 2017 Lecture
 author: []
 publisher:
@@ -25,7 +25,7 @@ _type: Article
 # **Whither Psychiatry - David Bell**
 ![David Bell Psychiatrist](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94eada76-e568-4d3f-981d-b9a9c834db9a.jpg)
 
-All cultures develop their own modes of selfexplanation, but such explanations, somewhat like symptoms, inevitably conceal as much as they reveal.
+All cultures develop their own modes of self explanation, but such explanations, somewhat like symptoms, inevitably conceal as much as they reveal.
 
 In this sense psychoanalysis may be well placed to enter into a critical relationship with the forms of consciousness that characterise our age. The ideology of the market has so penetrated into social consciousness that it appears as "normality", but this normality can be problematic.
 
@@ -38,9 +38,15 @@ Dr. David Bell is past President of the British Psychoanalytic Society.
 He is a Consultant psychiatrist at the Tavistock where he directs a Specialist Unit (the Fitzjohn's Unit) for serious/enduring complex disorders. In 2012-2013 he was Visiting Professorial Fellow at Birkbeck College, London. His writing and lecturing interests include the development of psychoanalytic concepts, psychosis and borderlines states. Throughout his professional career he has been deeply involved in the relation between psychoanalysis and other disciplines: literature, philosophy, culture and socio-political issues and has published extensively in these areas. His publications include: "Paranoia, psychoanalysis and Culture", "Reason and Passion", "Living on the Border". He is one of the UK's leading psychiatric experts in asylum and human rights.
 
 [Here is a short bio and bibliography from the Melanie Klein Trust.][0]
-[Book now on Eventbrite][1]
-[Further Detail and Directions][2]
+
+Dr David Bell has also written about the deterioration in the care of the mentally ill (PDF available here).
+[Mental illness .. its treatment today][1]
+
+Associted material is to be found on the website of
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdTjsSgjAQrfEUa6xDeifQ0EjHFSJZTEaEzGbR6xsVRuDNbLPvq61_greFeJEJAUmUB5iR6YVzaOyG2tLRM0r23OPaPZ824Ai7FMIc4lmp1gWfj3TLp7sS8LUVoro0tQDCPunGR8r5PLQyq7xMq1RY6qOUcPpXgpQb0WaUxdiSD-zHYbd-QYUDE0I3ElzQ9OzADBbYITTTtfct1AMjYeS98bfmDXInVDc" height="244" style=""></iframe>
+
+
 
 [0]: http://www.melanie-klein-trust.org.uk/bell "bibliography"
-[1]: https://www.eventbrite.co.uk/e/whither-psychiatry-david-bell-aap-spring-2017-lecture-tickets-32833276213
-[2]: http://aapmembers.org/spring-lectureprogram-and-directions
+[1]: http://chpi.org.uk/wp-content/uploads/2013/12/David-Bell-analysis-Mental-illness-and-its-treatment-today.pdf
