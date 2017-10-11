@@ -1,20 +1,23 @@
 ---
-datePublished: '2017-03-29T01:25:25.781Z'
+datePublished: '2017-10-11T13:08:53.464Z'
 sourcePath: _posts/2016-10-11-lecture-series.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-29T01:25:24.835Z'
+dateModified: '2017-10-11T13:08:52.667Z'
 title: Lecture Series
 publisher: {}
 description: >-
-  Freud like Tancredi was pretty pessimistic about social change, despite at the
-  beginning of his career recognising the profound effects of trauma and
-  inequality on his patients. He contributed enormously to our understanding of
-  the mind. However, nothing human can be understood in the abstract. We also
-  have to interpret thoughts, feelings and behaviours in their social context.
-  In his lecture, David Morgan will provide a framework to address these issues.
+  Adolescence is perhaps the most difficult and drastic phase in human
+  development. Although not an illness or trauma, it is full of major physical
+  and psychological changes that may lead to serious and possible fatal
+  pathological consequences. In this paper I will look at the developmental
+  tasks that face the adolescent and consider how these are negotiated. I will
+  also illustrate this with some clinical work, of an analysis with a very
+  worrying adolescent. It will, I hope, show how difficulties are tackled
+  psychoanalytically and the enormous anxiety and terror adolescents project
+  into those around them.
 starred: true
 datePublishedOriginal: '2016-10-21T00:47:39.166Z'
 url: lecture-series/index.html
@@ -22,6 +25,17 @@ _type: Article
 
 ---
 # **Lecture Series**
+
+## **Understanding Adolescence: Creativity, Disturbance and the Developmental Process**
+
+## **by Hannah Solemani**
+
+Adolescence is perhaps the most difficult and drastic phase in human development.  
+Although not an illness or trauma, it is full of major physical and psychological changes that may lead to serious and possible fatal pathological consequences.  
+In this paper I will look at the developmental tasks that face the adolescent and consider how these are negotiated. I will also illustrate this with some clinical work, of an analysis with a very worrying adolescent.  
+It will, I hope, show how difficulties are tackled psychoanalytically and the enormous anxiety and terror adolescents project into those around them.
+
+http://aapmembers.org/understanding-adolescence-creativity-disturbance-and-the-d/
 
 # **[Psychoanalysis and Politics][0]**
 
