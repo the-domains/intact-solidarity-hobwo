@@ -2,28 +2,30 @@
 inFeed: true
 description: >-
   Adolescence is perhaps the most difficult and drastic phase in human
-  development. Although not an illness or trauma, it is full of major physical
+  development.Although not an illness or trauma, it is full of major physical
   and psychological changes that may lead to serious and possible fatal
-  pathological consequences. 
+  pathological consequences.
 
   In this paper I will look at the developmental tasks that face the adolescent
   and consider how these are negotiated. I will also illustrate this with some
-  clinical work, of an analysis with a very worrying adolescent. It will, I
-  hope, show how difficulties are tackled psychoanalytically and the enormous
-  anxiety and terror adolescents project into those around them.
-dateModified: '2017-10-11T12:27:58.739Z'
-datePublished: '2017-10-11T12:27:59.624Z'
+  clinical work, of an analysis with a very worrying adolescent.It will, I hope,
+  show how difficulties are tackled psychoanalytically and the enormous anxiety
+  and terror adolescents project into those around them.
+dateModified: '2017-10-11T12:30:23.043Z'
+datePublished: '2017-10-11T12:30:23.716Z'
 title: >-
   Understanding Adolescence: Creativity, Disturbance and the Developmental
   Process.
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-10-11T12:27:59.624Z'
 sourcePath: >-
   _posts/2017-10-11-understanding-adolescence-creativity-disturbance-and-the-d.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-10-11T12:27:59.624Z'
+url: understanding-adolescence-creativity-disturbance-and-the-d/index.html
+_type: Article
 
 ---
 ## Understanding Adolescence: Creativity, Disturbance and the Developmental Process.
