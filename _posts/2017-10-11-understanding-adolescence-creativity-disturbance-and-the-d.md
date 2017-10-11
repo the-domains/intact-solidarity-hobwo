@@ -2,17 +2,16 @@
 inFeed: true
 description: >-
   Adolescence is perhaps the most difficult and drastic phase in human
-  development.Although not an illness or trauma, it is full of major physical
+  development. Although not an illness or trauma, it is full of major physical
   and psychological changes that may lead to serious and possible fatal
-  pathological consequences.
-
-  In this paper I will look at the developmental tasks that face the adolescent
-  and consider how these are negotiated. I will also illustrate this with some
-  clinical work, of an analysis with a very worrying adolescent.It will, I hope,
-  show how difficulties are tackled psychoanalytically and the enormous anxiety
-  and terror adolescents project into those around them.
-dateModified: '2017-10-11T13:09:27.040Z'
-datePublished: '2017-10-11T13:09:27.475Z'
+  pathological consequences.  In this paper I will look at the developmental
+  tasks that face the adolescent and consider how these are negotiated. I will
+  also illustrate this with some clinical work, of an analysis with a very
+  worrying adolescent. It will, I hope, show how difficulties are tackled
+  psychoanalytically and the enormous anxiety and terror adolescents project
+  into those around them.
+dateModified: '2017-10-11T13:10:46.588Z'
+datePublished: '2017-10-11T13:10:47.324Z'
 title: >-
   Understanding Adolescence: Creativity, Disturbance and the Developmental
   Process.
@@ -28,7 +27,7 @@ url: understanding-adolescence-creativity-disturbance-and-the-d/index.html
 _type: Article
 
 ---
-## Understanding Adolescence: Creativity, Disturbance and the Developmental Process.
+# Understanding Adolescence: Creativity, Disturbance and the Developmental Process.
 
 Adolescence is perhaps the most difficult and drastic phase in human development.  
 Although not an illness or trauma, it is full of major physical and psychological changes that may lead to serious and possible fatal pathological consequences.  
@@ -38,7 +37,7 @@ It will, I hope, show how difficulties are tackled psychoanalytically and the en
 **Hannah Solemani** is a **Psychoanalyst** and **Fellow at the Institute of Psychoanalysis**.  
 She previously worked for over 10 years at the **Arbours Crisis Centre** as a **Team Leader** and **Supervisor**. She taught on **The Arbours Training Programme** and was the Chair of the Training for many years. She now works in private practise and at the **Brent Centre for Young People**. She teaches and supervises on several Training Courses, including the **Institute of Psychoanalysis** and is currently **Chair of its Foundation** and **Post Foundation** courses.  
 Hannah also teaches and supervises extensively and continues to run a seminar in Russia, which she has done for 5 years.  
-Dr Maxim De Sauma is a Training and Supervising Analyst, as well as Child and Adolescent Analyst. He is Fellow of the **British Psychoanalytic Society**, Full Member of the **British Psychoanalytic Association** and **Member of the American Psychoanalytic Association**. He is **CEO** and **Clinical Director** of the **Brent Centre for Young People**. 
+Dr Maxim De Sauma is a Training and Supervising Analyst, as well as Child and Adolescent Analyst. He is Fellow of the **British Psychoanalytic Society**, Full Member of the **British Psychoanalytic Association** and **Member of the American Psychoanalytic Association**. He is **CEO** and **Clinical Director** of the **Brent Centre for Young People**.
 
 **PROGRAMME:**  
 10.00 Registration, tea, coffee  
